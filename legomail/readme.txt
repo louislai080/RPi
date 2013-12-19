@@ -1,0 +1,1 @@
+This is a project named "LEGO mail". That is used for play voice message from sender.
